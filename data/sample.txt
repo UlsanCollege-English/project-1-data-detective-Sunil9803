@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The Project Gutenberg eBook of The Memoirs of Sherlock Holmes
     
 This eBook is for the use of anyone anywhere in the United States and
@@ -8811,3 +8812,8 @@ X. The Greek Interpreter
       “Why do you say so?”
 
       “
+=======
+This is a small sample text file.
+This file exists so the project can run a simple demo.
+Words repeat, words repeat, and some words appear only once.
+>>>>>>> d31fb56ec719a6f1b331d06164fcc8d2c51dece7
